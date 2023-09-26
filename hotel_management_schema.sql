@@ -53,3 +53,6 @@ INSERT INTO TARIF VALUES
 ('db','good',3000),
 ('de','good',3000),
 ('tr','good',3000)
+
+--inserted values in ROOMS table
+INSERT INTO ROOMS VALUES (1,'si',1,'y');

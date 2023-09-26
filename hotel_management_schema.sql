@@ -47,3 +47,9 @@ SDESC VARCHAR(20) NOT NULL,
 AMT INT
 );
 
+-- inserted values in TRIF
+INSERT INTO TARIF VALUES
+('si','best',3000),
+('db','good',3000),
+('de','good',3000),
+('tr','good',3000)
